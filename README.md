@@ -8,4 +8,4 @@ How to use:
 Click the directory line in file explorer, type "cmd", hit enter, then enter "java Main.java" (case sensitive).
 From there, follow the instructions given in your command prompt.
 
-tung sahur
+"tung shaur" - local
